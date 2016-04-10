@@ -1,0 +1,10 @@
+{
+  "generator-neopolitan": {
+    "config": {
+      "projectName": "ReactNews",
+      "cssOption": "stylus",
+      "testFramework": "none"
+    },
+    "version": "1.2.1"
+  }
+}
